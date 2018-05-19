@@ -531,10 +531,10 @@
               }
             },
             ".mbr-section-btn, .mbr-section-title B": {
-              "color": "#f7ed4a"
+              "color": "#ffffff"
             },
             ".mbr-section-btn, .mbr-section-title DIV": {
-              "color": "#f9f295"
+              "color": "#ffffff"
             }
           },
           "_name": "features3",
