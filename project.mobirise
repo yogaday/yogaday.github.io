@@ -544,6 +544,9 @@
               "&:hover": {
                 "color": "#ffffff"
               }
+            },
+            "H1": {
+              "color": "#f9f295"
             }
           },
           "_name": "header8",
