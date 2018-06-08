@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "YogaDay.no New",
-    "currentPage": "hjem.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -65,7 +65,7 @@
     ]
   },
   "pages": {
-    "index.html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Trondheim Yoga Day Festival | Inspiration - Peace - Unity ",
@@ -1907,7 +1907,7 @@
         }
       ]
     },
-    "hjem.html": {
+    "index.html": {
       "settings": {
         "title": "Trondheim Yoga Day Festival | Inspirasjon - Fred - Fellesskap",
         "meta_descr": "Ta del i Trondheim’s egen feiring av FN’s Internasjonale Yoga Dag! YOGA DAY FESTIVAL TRONDHEIM er et arrangement for hele byens befolkning, der vi ønsker å vise frem alt hva yoga har å tilby. Med ulike stiler fysisk yoga, kunstneriske innslag med mandalas, pusteteknikker, presentasjon av filosofien, vegetarisk mat, dokumentarfilm, dyp avspenning, yoga mantrakonsert og mye mer.",
